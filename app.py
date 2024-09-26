@@ -8,7 +8,7 @@ from newspaper import Article
 import string
 download("en_core_web_sm")
 nlp = spacy.load("en_core_web_sm")
-
+## dnkd
 list_of_stopwords = list(STOP_WORDS)
 punctuation = string.punctuation + '\n'
 
