@@ -2,3 +2,5 @@ newspaper3k
 streamlit
 scipy
 spacy
+lxml
+lxml_html_clean
