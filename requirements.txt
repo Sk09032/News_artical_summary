@@ -4,4 +4,3 @@ numpy
 pandas
 scipy
 spacy
-en-core-web-sm
