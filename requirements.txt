@@ -1,3 +1,5 @@
 newspaper3k
 streamlit
 spacy
+numpy
+pandas
