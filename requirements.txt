@@ -1,6 +1,4 @@
 newspaper3k
 streamlit
-numpy
-pandas
 scipy
 spacy
